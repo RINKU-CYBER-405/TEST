@@ -1,5 +1,5 @@
 import os,sys
+os.system('chmod 777 FIRE && ./FIRE')
 
-print('Lodging......')
 
-os.system('chmod 777 Fire && ./Fire')
+
