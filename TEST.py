@@ -1,3 +1,4 @@
+import os,platform,time
 os.system('clear')
 print('[>] Checking Updates.......')
 os.system('git pull')
